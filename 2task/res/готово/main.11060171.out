@@ -1,0 +1,11 @@
+n1:      7000
+n2:      7000
+n:       49000000
+nPer:    24500000
+size:    2
+threads: 3
+cmps:    1
+tacts:   1
+dhtime:  20.5535
+btime:   2.67447
+time:    23.2073

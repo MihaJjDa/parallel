@@ -1,0 +1,6 @@
+terminate called after throwing an instance of 'terminate called after throwing an instance of 'std::bad_allocstd::bad_alloc'
+'
+  what():    what():  St9bad_allocSt9bad_alloc
+
+<Feb 24 18:12:34.293905> BE_MPI (ERROR): The error message in the job record is as follows:
+<Feb 24 18:12:34.293965> BE_MPI (ERROR):   "killed with signal 6"
